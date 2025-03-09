@@ -1,6 +1,5 @@
 
 
----
 
 # **Even Odd Program in C#**
 
@@ -12,7 +11,6 @@
 - [Code](#code)  
 - [License](#license)  
 
----
 
 ## **1. Description**  
 This is a simple C# console application that determines whether a given number is even or odd.  
@@ -72,8 +70,6 @@ class Program
 ## **6. License**  
 This project is open-source and available under the [MIT License](LICENSE).  
 
----
 
-###  **How the Table of Contents Works:**  
-The `(#section-name)` links allow users to jump to different sections within the README when viewed on GitHub.
+
 
